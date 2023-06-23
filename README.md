@@ -1,10 +1,8 @@
-# <h1 align="center"><a href="https://bengalhackathon.com/">Bengal Hackathon</a></h1>
+# <h1 align="center">Bengal Hackathon</h1>
 
-<p>
-Welcome to the Bengal Hackathon GitHub repository! This repository serves as a central hub for all the resources, guidelines, and submissions related to the Bengal Hackathon event. Whether you are a participant, organizer, or interested observer, this readme will provide you with all the information you need to get started.
-</p>
 
-### <h3 align="left">What is Bengal Hackathon ?</h3>
+
+### <h2 align="left">What is Bengal Hackathon ?</h2>
 
 <p>
 The <a href="https://bengalhackathon.com/">Bengal Hackathon</a> is a competition that brings together talented developers, designers, and problem solvers from across the region. This exciting event serves as a platform to showcase their skills, foster innovation, and promote collaboration.
