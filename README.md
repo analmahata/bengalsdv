@@ -21,8 +21,7 @@ For more information visit <a href="https://bengalhackathon.com/">bengalhackatho
 
 </p>
 
-<h2 align="left">What is Bengal Hackathon ?</h2>
+### <h2 align="left">Bengal Hackathon socials</h2>
 
-### Bengal Hackathon socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/officialbengalhackathon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bengalhackathon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bengalhackathon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bengalhackathon)
